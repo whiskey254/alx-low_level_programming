@@ -7,5 +7,7 @@
  */
 int main(void)
 {
+	printf("New Trial - Hello World!!");
+
     return (0);
 }
